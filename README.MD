@@ -7,10 +7,13 @@
 # dev
 
 ```nodejs
-   // 装vue-cli
-   npm i  vue-cli
+   
+   npm i vue-cli -g 
+   
+   npm i / yarn
 
    npm run dev
+   
 ```
 
 
